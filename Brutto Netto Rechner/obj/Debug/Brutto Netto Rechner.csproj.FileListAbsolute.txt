@@ -1,0 +1,8 @@
+I:\SAS\3.4 Brutto-Netto Rechner\Brutto Netto Rechner\bin\Debug\Brutto Netto Rechner.exe.config
+I:\SAS\3.4 Brutto-Netto Rechner\Brutto Netto Rechner\bin\Debug\Brutto Netto Rechner.exe
+I:\SAS\3.4 Brutto-Netto Rechner\Brutto Netto Rechner\bin\Debug\Brutto Netto Rechner.pdb
+I:\SAS\3.4 Brutto-Netto Rechner\Brutto Netto Rechner\obj\Debug\Brutto Netto Rechner.csproj.AssemblyReference.cache
+I:\SAS\3.4 Brutto-Netto Rechner\Brutto Netto Rechner\obj\Debug\Brutto Netto Rechner.csproj.SuggestedBindingRedirects.cache
+I:\SAS\3.4 Brutto-Netto Rechner\Brutto Netto Rechner\obj\Debug\Brutto Netto Rechner.csproj.CoreCompileInputs.cache
+I:\SAS\3.4 Brutto-Netto Rechner\Brutto Netto Rechner\obj\Debug\Brutto Netto Rechner.exe
+I:\SAS\3.4 Brutto-Netto Rechner\Brutto Netto Rechner\obj\Debug\Brutto Netto Rechner.pdb
